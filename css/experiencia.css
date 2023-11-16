@@ -11,7 +11,6 @@
   color: #e0e0e0;
 }
 
-
 .perfil {
   font-size: 1.5rem;
   max-width: 40ch;
@@ -51,7 +50,7 @@
 }
 
 .empresa-nome a {
-  text-decoration: none;
+  /* text-decoration: none; */
   color: #141414;
 }
 
@@ -85,7 +84,7 @@
     font-size: 2rem;
   }
   .perfil {
-    font-size: 1.25rem;;
+    font-size: 1.25rem;
   }
   .empresa-ano {
     position: initial;
