@@ -8,7 +8,7 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 100px;
-  
+  background: linear-gradient(blue,rgb(0, 162, 255)101, 101, 199);
   color: #ffff;
   position: relative;
 }
