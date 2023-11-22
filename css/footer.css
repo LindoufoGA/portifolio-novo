@@ -32,8 +32,6 @@
 
 .social-links {
   display: flex;
-  place-items: center;
-  justify-items: end;
 }
 
 .social-links li {
