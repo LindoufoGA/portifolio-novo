@@ -61,4 +61,8 @@
   .footer-contato li {
     font-size: 1.5rem;
   }
+  .social-links {
+    justify-content:  center;
+    gap: 10px;
+  }
 }

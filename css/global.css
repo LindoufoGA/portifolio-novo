@@ -3,6 +3,9 @@ body {
   font-family: "Fira Sans", Arial, sans-serif;
   color: #141414;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 h1,
 h2,
