@@ -21,6 +21,11 @@
   color: #141414;
   padding: 10px 20px;
 }
+.header-menu li a:hover {
+  background-color: #141414;
+  border-radius: 8px;
+  color: #f7f7f7;
+}
 
 @media (max-width: 767px) {
   .header {
@@ -28,7 +33,14 @@
     gap: 40px;
     padding: 20px;
   }
-  a{
+  .header-menu li a {
+    font-size: 0.85rem;
+  }
+  .header-menu,
+  .header h1 {
+    display: none;
+  }
+  a {
     background-color: #f7f7f7;
     border-radius: 8px;
   }
